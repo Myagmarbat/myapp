@@ -1,0 +1,21 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: mydb
+  username: www
+  password: www
+  host: mysql://127.0.0.1:3306
+test:
+  adapter: mysql2
+  encoding: utf8
+  database: mydb
+  username: www
+  password: www
+  host: mysql://127.0.0.1:3306
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: mydb
+  username: www
+  password: www
+  host: mysql://127.0.0.1:3306
